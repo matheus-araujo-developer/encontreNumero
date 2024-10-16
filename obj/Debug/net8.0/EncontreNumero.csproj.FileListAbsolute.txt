@@ -1,0 +1,43 @@
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\bin\Debug\net8.0\EncontreNumero.exe
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\bin\Debug\net8.0\EncontreNumero.deps.json
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\bin\Debug\net8.0\EncontreNumero.runtimeconfig.json
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\bin\Debug\net8.0\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\bin\Debug\net8.0\EncontreNumero.pdb
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\EncontreNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\EncontreNumero.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\EncontreNumero.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\EncontreNumero.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\refint\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\EncontreNumero.pdb
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\EncontreNumero.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Projetos C#\EncontreNumero\obj\Debug\net8.0\ref\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\bin\Debug\net8.0\EncontreNumero.exe
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\bin\Debug\net8.0\EncontreNumero.deps.json
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\bin\Debug\net8.0\EncontreNumero.runtimeconfig.json
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\bin\Debug\net8.0\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\bin\Debug\net8.0\EncontreNumero.pdb
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\refint\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.pdb
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\ref\EncontreNumero.dll
+C:\Users\mathe\Desktop\Projetos C#\atividadeEstruturaRepeticao\obj\Debug\net8.0\EncontreNumero.sourcelink.json
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\bin\Debug\net8.0\EncontreNumero.exe
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\bin\Debug\net8.0\EncontreNumero.deps.json
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\bin\Debug\net8.0\EncontreNumero.runtimeconfig.json
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\bin\Debug\net8.0\EncontreNumero.dll
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\bin\Debug\net8.0\EncontreNumero.pdb
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\EncontreNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\EncontreNumero.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\EncontreNumero.AssemblyInfo.cs
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\EncontreNumero.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\EncontreNumero.dll
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\refint\EncontreNumero.dll
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\EncontreNumero.pdb
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\EncontreNumero.genruntimeconfig.cache
+C:\Users\mathe\Desktop\atividadeEstruturaDeRepeticao\obj\Debug\net8.0\ref\EncontreNumero.dll
