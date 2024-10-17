@@ -1,5 +1,5 @@
 # ENCONTRA NÚMERO
-Foi criado um programa que encontra um numero que segue os seguintes critérios : 
+Foi criado um programa que encontra um número que segue os seguintes critérios : 
 
 
 Um numero que seja divisivel por 3
